@@ -1,0 +1,14 @@
+C:\Users\karina.nicoleti\Desktop\toodollapp\obj\Debug\net8.0\toodollapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karina.nicoleti\Desktop\toodollapp\obj\Debug\net8.0\toodollapp.AssemblyInfoInputs.cache
+C:\Users\karina.nicoleti\Desktop\toodollapp\obj\Debug\net8.0\toodollapp.AssemblyInfo.cs
+C:\Users\karina.nicoleti\Desktop\toodollapp\obj\Debug\net8.0\toodollapp.csproj.CoreCompileInputs.cache
+C:\Users\karina.nicoleti\Desktop\toodollapp\bin\Debug\net8.0\toodollapp.exe
+C:\Users\karina.nicoleti\Desktop\toodollapp\bin\Debug\net8.0\toodollapp.deps.json
+C:\Users\karina.nicoleti\Desktop\toodollapp\bin\Debug\net8.0\toodollapp.runtimeconfig.json
+C:\Users\karina.nicoleti\Desktop\toodollapp\bin\Debug\net8.0\toodollapp.dll
+C:\Users\karina.nicoleti\Desktop\toodollapp\bin\Debug\net8.0\toodollapp.pdb
+C:\Users\karina.nicoleti\Desktop\toodollapp\obj\Debug\net8.0\toodollapp.dll
+C:\Users\karina.nicoleti\Desktop\toodollapp\obj\Debug\net8.0\refint\toodollapp.dll
+C:\Users\karina.nicoleti\Desktop\toodollapp\obj\Debug\net8.0\toodollapp.pdb
+C:\Users\karina.nicoleti\Desktop\toodollapp\obj\Debug\net8.0\toodollapp.genruntimeconfig.cache
+C:\Users\karina.nicoleti\Desktop\toodollapp\obj\Debug\net8.0\ref\toodollapp.dll
