@@ -1,4 +1,3 @@
-📝 Conteúdo sugerido para o README.md
 # 📝 ToodollApp – Gerenciador de Tarefas em C#
 
 Aplicação de console para você gerenciar tarefas de forma simples: adicionar, listar, marcar como concluída e remover.
@@ -15,40 +14,37 @@ Aplicação de console para você gerenciar tarefas de forma simples: adicionar,
 
 - C# (.NET)
 - Programação orientada a objetos
-- Console Application
+- Aplicativo de console
 
 ## ▶️ Como executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/KarinaNicoleti/toodollapp.git
-   cd toodollapp
+Clone o repositório:
 
-
+```bash
+git clone https://github.com/KarinaNicoleti/toodollapp.git
+cd toodollapp
 Compile e execute:
 
+bash
+Copiar código
 dotnet run
-
-
-Siga o menu no terminal para usar o app.
+Siga o menu no terminal para usar o aplicativo.
 
 📁 Estrutura do Projeto
+bash
+Copiar código
 /toodollapp
 │
-├── Program.cs        # Arquivo principal com menu e lógica
-└── .gitignore        # Ignora arquivos bin/ obj/ etc.
-
+├── Program.cs       # Arquivo principal com menu e lógica
+└── .gitignore       # Ignora arquivos bin/ obj/ etc.
 🚀 Melhorias futuras
-
 Salvar tarefas em arquivo ou banco de dados para persistência.
 
-Adicionar funcionalidade de editar tarefa.
+Adicionar funcionalidade de edição de tarefa.
 
 Classificar tarefas por data de criação ou prioridade.
 
-Interface gráfica ou versão web.
+Criar uma interface gráfica ou versão web.
 
 🧑‍💻 Autora
-
-Feito por Karina Nicoleti ✨
-github.com/KarinaNicoleti
+Feito por Karina Nicoleti ✨
